@@ -15,4 +15,4 @@ The following datasets were used:
 
 - [Police Incident Blotter (30 Day)](https://data.wprdc.org/dataset/police-incident-blotter) - a collection of the most recent initial crime incident data, updated on a nightly basis
 - [City of Pittsburgh Playgrounds](https://data.wprdc.org/dataset/playgrounds) - a collection of playgrounds within Pittsburgh
-- [Pittsburgh Public Schools Enrollment by Neighborhood, School, and Feeder Pattern] - (https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment) - a collection of enrollment data for Pittsburgh Public Schools
+- [Pittsburgh Public Schools Enrollment by Neighborhood](https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment) - a collection of enrollment data for Pittsburgh Public Schools
